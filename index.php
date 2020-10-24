@@ -49,75 +49,136 @@
 <hr>
 
 
-        <button class="button button2">
-            <a href="ejercicio1.php">Ejercicio 1 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod1.txt">Codigo Fuente 1 </a>
-        </button>
+        
+            <a href="ejercicio1.php">  
+            <button class="button button2">
+            Ejercicio 1         </button>
+            </a>
+
+        
+            <a href="cod1.txt">
+            <button class="button button2">Codigo Fuente 1
+                    </button>
+                     </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio2.php">Ejercicio 2 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod2.txt">Codigo Fuente 2 </a>
-        </button>
+       
+            <a href="ejercicio2.php">
+             <button class="button button2">Ejercicio 2 
+                     </button>
+                     </a>
+
+
+            <a href="cod2.txt">
+                    <button class="button button2">Codigo Fuente 2
+                            </button> </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio3.php">Ejercicio  3 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod3.txt">Codigo Fuente 3 </a>
-        </button>
+
+            <a href="ejercicio3.php">
+                    <button class="button button2">Ejercicio  3
+                            </button>
+                             </a>
+
+
+            <a href="cod3.txt">
+                    <button class="button button2">Codigo Fuente 3
+                            </button>
+                             </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio4.php">Ejercicio  4 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod4.txt">Codigo Fuente 4 </a>
-        </button>
+
+            <a href="ejercicio4.php">
+                    <button class="button button2">Ejercicio  4
+                            </button>
+                             </a>
+
+
+            <a href="cod4.txt">
+                    <button class="button button2">Codigo Fuente 4 
+                            </button>
+                            </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio5.php">Ejercicio  5 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod5.txt">Codigo Fuente 5 </a>
-        </button>
+
+            <a href="ejercicio5.php">
+                    <button class="button button2">Ejercicio  5
+                            </button>
+                             </a>
+
+
+            <a href="cod5.txt">
+                    <button class="button button2">Codigo Fuente 5 
+                            </button>
+                            </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio6.php">Ejercicio  6 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod6.txt">Codigo Fuente 6 </a>
-        </button>
+
+            <a href="ejercicio6.php">
+                    <button class="button button2">Ejercicio  6 
+                            </button>
+                            </a>
+
+
+            <a href="cod6.txt">
+                    <button class="button button2">
+                    Codigo Fuente 6
+                            </button>
+                             </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio7.php">Ejercicio  7 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod7.txt">Codigo Fuente 7 </a>
-        </button>
+
+            <a href="ejercicio7.php">
+                    <button class="button button2">
+                    Ejercicio  7 
+                            </button>
+                            </a>
+
+
+            <a href="cod7.txt">
+                    <button class="button button2">Codigo Fuente 7 
+                            </button>
+                            </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio8.php">Ejercicio  8 </a>
-        </button>
-        <button class="button button2">
-            <a  href="cod8.txt">Codigo Fuente 8 </a>
-        </button>
+
+            <a href="ejercicio8.php">
+                    <button class="button button2">Ejercicio  8
+                            </button>
+                             </a>
+
+
+            <a  href="cod8.txt">
+                    <button class="button button2">Codigo Fuente 8 
+                            </button>
+                            </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio9.php">Ejercicio  9 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod9.txt">Codigo Fuente 9 </a>
-        </button>
+
+            <a href="ejercicio9.php">
+                    <button class="button button2">Ejercicio  9
+                            </button>
+                             </a>
+
+
+            <a href="cod9.txt">
+                    <button class="button button2">Codigo Fuente 9 
+                            </button>
+                            </a>
+
         <br>
-        <button class="button button2">
-            <a href="ejercicio10.php">Ejercicio  10 </a>
-        </button>
-        <button class="button button2">
-            <a href="cod10.txt">Codigo Fuente 10 </a>
-        </button>
+
+            <a href="ejercicio10.php">
+                    <button class="button button2">Ejercicio  10 
+                            </button>
+                            </a>
+
+
+            <a href="cod10.txt">
+                    <button class="button button2">Codigo Fuente 10 
+                            </button>
+                            </a>
+
 
 
 
