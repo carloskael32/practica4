@@ -166,18 +166,7 @@
                             </button>
                             </a>
 
-        <br>
-
-            <a href="ejercicio10.php">
-                    <button class="button button2">Ejercicio  10 
-                            </button>
-                            </a>
-
-
-            <a href="cod10.txt">
-                    <button class="button button2">Codigo Fuente 10 
-                            </button>
-                            </a>
+  
 
 
 
